@@ -1,0 +1,11 @@
+GetOrderByTrackTest.class
+CreateCourierTest.class
+CreateOrderTest.class
+GettingListOfOrdersTest.class
+AcceptOrderCourierErrorTest.class
+AcceptOrderTest.class
+LoginCourierTest.class
+AcceptOrderErrorTest.class
+DeleteCourierTest.class
+LoginCourierErrorTest.class
+CreateCourierErrorTest.class
